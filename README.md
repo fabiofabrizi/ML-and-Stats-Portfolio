@@ -28,4 +28,7 @@ The exercise was to use numpy's polyfit to fit polynomials to two data sets.<br>
 
 From the Keras website, recreate the time-series anomaly detection example, explaining the concepts used.<br>
 
-The project is in the form of a Jupyter notebook and is in the *project* folder.
+The project is in the form of a Jupyter notebook and is in the *project* folder.<br>
+The aim of the project is take the example from [the Keras website](https://keras.io/examples/timeseries/timeseries_anomaly_detection/) and 
+expand on it to explain the concepts in more detail, so that one might know the steps to go through when designing an convolutional 
+autoencoder for time series anomaly detection.
