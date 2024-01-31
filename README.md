@@ -1,6 +1,13 @@
-<div >
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+# Technologies used
+
+<div>
+<img width="50" src="https://github.com/fabiofabrizi/ML-and-Stats-Portfolio/blob/main/Python.svg" alt="Python logo" title="Python logo">
+<img width="50" src="https://github.com/fabiofabrizi/ML-and-Stats-Portfolio/blob/main/Jupyter.svg" alt="Jupyter logo" title="Jupyter logo">
+<img width="50" src="https://github.com/fabiofabrizi/ML-and-Stats-Portfolio/blob/main/Keras.svg" alt="Keras logo" title="Keras logo">
+<img width="50" src="https://github.com/fabiofabrizi/ML-and-Stats-Portfolio/blob/main/numpy%20(1).svg" alt="Numpy logo" title="Numpy logo">
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas logo" title="Pandas logo">
+<img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="Tensorflow logo" title="Tensorflow logo">
+	
 </div>
 
 # ML-and-Stats-Portfolio
